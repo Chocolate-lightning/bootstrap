@@ -6,37 +6,37 @@
 @import "vendor/rfs";
 
 // Deprecate
-@import "mixins/deprecate";
+@import "tools/mixins/deprecate";
 
 // Utilities
-@import "mixins/breakpoints";
-@import "mixins/hover";
-@import "mixins/image";
-@import "mixins/resize";
-@import "mixins/screen-reader";
-@import "mixins/reset-text";
-@import "mixins/text-emphasis";
-@import "mixins/text-truncate";
+@import "tools/mixins/breakpoints";
+@import "tools/mixins/hover";
+@import "tools/mixins/image";
+@import "tools/mixins/resize";
+@import "tools/mixins/screen-reader";
+@import "tools/mixins/reset-text";
+@import "tools/mixins/text-emphasis";
+@import "tools/mixins/text-truncate";
 
 // // Components
-@import "mixins/alert";
-@import "mixins/buttons";
-@import "mixins/caret";
-@import "mixins/pagination";
-@import "mixins/lists";
-@import "mixins/list-group";
-@import "mixins/nav-divider";
-@import "mixins/forms";
-@import "mixins/table-row";
+@import "tools/mixins/alert";
+@import "tools/mixins/buttons";
+@import "tools/mixins/caret";
+@import "tools/mixins/pagination";
+@import "tools/mixins/lists";
+@import "tools/mixins/list-group";
+@import "tools/mixins/nav-divider";
+@import "tools/mixins/forms";
+@import "tools/mixins/table-row";
 
 // // Skins
-@import "mixins/background-variant";
-@import "mixins/border-radius";
-@import "mixins/box-shadow";
-@import "mixins/gradients";
-@import "mixins/transition";
+@import "tools/mixins/background-variant";
+@import "tools/mixins/border-radius";
+@import "tools/mixins/box-shadow";
+@import "tools/mixins/gradients";
+@import "tools/mixins/transition";
 
 // // Layout
-@import "mixins/clearfix";
-@import "mixins/grid-framework";
-@import "mixins/grid";
+@import "tools/mixins/clearfix";
+@import "tools/mixins/grid-framework";
+@import "tools/mixins/grid";
